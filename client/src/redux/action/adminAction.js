@@ -7,8 +7,8 @@ import {
 } from '../actionTypes'
 
 // const url = "https://sore-teal-panther-sock.cyclic.app"
-const url ="https://amsproject.onrender.com"
-const url1 = "https://amsproject.onrender.com"
+const url ="ams-b-ackend.vercel.app"
+const url1 = "ams-b-ackend.vercel.app"
 
 const setAdmin = (data) => {
     return {
