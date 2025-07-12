@@ -10,7 +10,7 @@ const setFaculty = (data) => {
     }
 }
 
-const url = "https://easy-plum-katydid-toga.cyclic.app"
+const url = "https://amsproject.onrender.com"
 
 const fetchStudentsHelper = (data) => {
     return {
