@@ -10,7 +10,7 @@ const setFaculty = (data) => {
     }
 }
 
-const url = "https://amsproject.onrender.com"
+const url = "ams-b-ackend.vercel.app"
 
 const fetchStudentsHelper = (data) => {
     return {
